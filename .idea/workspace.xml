@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2f6e19c-c6a1-4b92-93f5-f55f2ab65c60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camping/camping/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camping/camping/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camping/camping/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camping/camping/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camping/camping/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camping/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camping/pereval_data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camping/pereval_data/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camping/pereval_data/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camping/pereval_data/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camping/pereval_data/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camping/pereval_data/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camping/pereval_data/views.py" afterDir="false" />
+    <list default="true" id="b2f6e19c-c6a1-4b92-93f5-f55f2ab65c60" name="Changes" comment="submitData: Создание проекта и подключение к переменным окружения">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/pereval_data/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +27,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/git/pereval",
+    "last_opened_file_path": "C:/Users/BERET/Documents/GitHub/bulletin_board/home_project",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -56,6 +45,21 @@
       <option name="presentableId" value="Default" />
       <updated>1708806510121</updated>
     </task>
+    <task id="LOCAL-00001" summary="submitData: Создание проекта и подключение к переменным окружения">
+      <created>1708813147035</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708813147035</updated>
+    </task>
+    <task id="LOCAL-00002" summary="submitData: Создание проекта и подключение к переменным окружения">
+      <created>1708813317915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708813317915</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="submitData: Создание проекта и подключение к переменным окружения" />
+    <option name="LAST_COMMIT_MESSAGE" value="submitData: Создание проекта и подключение к переменным окружения" />
   </component>
 </project>
