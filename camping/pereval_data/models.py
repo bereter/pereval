@@ -3,7 +3,7 @@ from django.db import models
 
 class Users(models.Model):
     email = models.EmailField(max_length=255, unique=True)
-    phone = models
+    phone = models.ImageField
     name = models.CharField(max_length=255)
     fam = models.CharField(max_length=255)
     otc = models.CharField(max_length=255)
@@ -34,7 +34,7 @@ class PerevalAdded(models.Model):
     title = models.TextField()
     other_titles = models.TextField()
     connect = models.TextField(blank=True)
-    add_time = models.DateTimeField(blank=True)
+    add_time = models.DateTimeField(auto_now=True)
     user = models.ForeignKey(Users, on_delete=models.CASCADE)
     coord_id = models.ForeignKey(Coords, on_delete=models.CASCADE)
     level_winter = models.CharField(max_length=255)
@@ -46,8 +46,8 @@ class PerevalAdded(models.Model):
 class PerevalImages(models.Model):
     title = models.CharField(max_length=255)
     date_added = models.DateTimeField(auto_now_add=True)
-    img = models.ImageField(upload_to='images')
-    pereval = models.ForeignKey(PerevalAdded, on_delete=models.CASCADE)
+    img = models.ImageField(upload_to='images/%Y/%m/%d', max_length=255)
+    pereval = models.ForeignKey(PerevalAdded, on_delete=models.CASCADE, related_name='images')
 
 
 class PerevalAreas(models.Model):

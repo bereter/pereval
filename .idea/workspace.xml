@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2f6e19c-c6a1-4b92-93f5-f55f2ab65c60" name="Changes" comment="submitData: Создание проекта и подключение к переменным окружения">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b2f6e19c-c6a1-4b92-93f5-f55f2ab65c60" name="Changes" comment="submitData: Создание моделей">
+      <change afterPath="$PROJECT_DIR$/camping/pereval_data/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/camping/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/camping/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/camping/pereval_data/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/pereval_data/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708813317915</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="submitData: Создание моделей">
+      <created>1708978148232</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708978148232</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="submitData: Создание проекта и подключение к переменным окружения" />
-    <option name="LAST_COMMIT_MESSAGE" value="submitData: Создание проекта и подключение к переменным окружения" />
+    <MESSAGE value="submitData: Создание моделей" />
+    <option name="LAST_COMMIT_MESSAGE" value="submitData: Создание моделей" />
   </component>
 </project>
