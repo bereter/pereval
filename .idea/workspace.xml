@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2f6e19c-c6a1-4b92-93f5-f55f2ab65c60" name="Changes" comment="submitData: Создание моделей">
-      <change afterPath="$PROJECT_DIR$/camping/pereval_data/serializers.py" afterDir="false" />
+    <list default="true" id="b2f6e19c-c6a1-4b92-93f5-f55f2ab65c60" name="Changes" comment="submitData: Прописал serializers и views">
+      <change beforePath="$PROJECT_DIR$/.idea/pereval.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pereval.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/camping/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/camping/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/pereval_data/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/camping/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/camping/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/pereval_data/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/camping/pereval_data/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/BERET/Documents/GitHub/bulletin_board/home_project",
+    "last_opened_file_path": "D:/git/hakcathon",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708978148232</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="submitData: Прописал serializers и views">
+      <created>1708984980727</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708984980727</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="submitData: Создание проекта и подключение к переменным окружения" />
     <MESSAGE value="submitData: Создание моделей" />
-    <option name="LAST_COMMIT_MESSAGE" value="submitData: Создание моделей" />
+    <MESSAGE value="submitData: Прописал serializers и views" />
+    <option name="LAST_COMMIT_MESSAGE" value="submitData: Прописал serializers и views" />
   </component>
 </project>

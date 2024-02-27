@@ -16,7 +16,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from .settings import BASE_DIR
+from pereval_data.views import PerevalAddedAPIView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('api/v1/pereval_add', PerevalAddedAPIView.as_view({'post': 'create'}))
 ]
