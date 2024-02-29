@@ -32,5 +32,4 @@ class PerevalAddedSerializer(serializers.ModelSerializer):
         Coords.objects.create(pereval=pereval, **coord_data)
         PerevalImages.objects.create(pereval=pereval, **images_data)
         return pereval
-        print(coord_data)
 
