@@ -21,5 +21,5 @@ from pereval_data.views import PerevalAddedAPIView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/v1/pereval_add', PerevalAddedAPIView.as_view({'post': 'create'}))
+    path('submitData/', PerevalAddedAPIView.as_view({'post': 'create'})),
 ]
