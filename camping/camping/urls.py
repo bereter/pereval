@@ -17,9 +17,9 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from .settings import BASE_DIR
-from pereval_data.views import PerevalAddedAPIView
+from pereval_data.views import PerevalCreateViewset
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('submitData/', PerevalAddedAPIView.as_view({'post': 'create'})),
+    path('submitData/', PerevalCreateViewset.as_view({'post': 'create'})),
 ]

@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2f6e19c-c6a1-4b92-93f5-f55f2ab65c60" name="Changes" comment="submitData: Пишу реализацию сохранения картинок" />
+    <list default="true" id="b2f6e19c-c6a1-4b92-93f5-f55f2ab65c60" name="Changes" comment="submitData: Пишу реализацию сохранения картинок">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/camping/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/camping/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/pereval_data/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/pereval_data/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/pereval_data/migrations/0002_users_phone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/pereval_data/migrations/0003_alter_perevaladded_status.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/pereval_data/migrations/0004_alter_perevaladded_coord_id.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/pereval_data/migrations/0005_alter_perevaladded_connect_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/pereval_data/migrations/0006_alter_perevaladded_coord_id.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/pereval_data/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/pereval_data/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camping/pereval_data/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,14 +39,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/git/hakcathon",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/git/hakcathon&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\git\pereval" />
