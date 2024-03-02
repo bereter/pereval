@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2f6e19c-c6a1-4b92-93f5-f55f2ab65c60" name="Changes" comment="submitData: Пишу реализацию сохранения картинок">
+    <list default="true" id="b2f6e19c-c6a1-4b92-93f5-f55f2ab65c60" name="Changes" comment="submitData: Доделал отправку изображений">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/camping/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/camping/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/pereval_data/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/pereval_data/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/pereval_data/migrations/0002_users_phone.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/pereval_data/migrations/0003_alter_perevaladded_status.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/pereval_data/migrations/0004_alter_perevaladded_coord_id.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/pereval_data/migrations/0005_alter_perevaladded_connect_and_more.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/pereval_data/migrations/0006_alter_perevaladded_coord_id.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/pereval_data/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/pereval_data/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/pereval_data/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709243199558</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="submitData: Доделал отправку изображений">
+      <created>1709395213301</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709395213301</updated>
+    </task>
+    <task id="LOCAL-00009" summary="submitData: Доделал отправку изображений">
+      <created>1709395341029</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709395341029</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +133,7 @@
     <MESSAGE value="submitData: Прописал serializers и views" />
     <MESSAGE value="submitData: Дописал urls и подправил views" />
     <MESSAGE value="submitData: Пишу реализацию сохранения картинок" />
-    <option name="LAST_COMMIT_MESSAGE" value="submitData: Пишу реализацию сохранения картинок" />
+    <MESSAGE value="submitData: Доделал отправку изображений" />
+    <option name="LAST_COMMIT_MESSAGE" value="submitData: Доделал отправку изображений" />
   </component>
 </project>
