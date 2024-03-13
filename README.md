@@ -144,3 +144,7 @@ GET/submitData/user__email=<email>
 
 ______
 
+**Документация сгенерирована с помощью пакета `drf-yasg`**
+
+Документация **swagger**: http://127.0.0.1:8000/swagger/*<br/>
+Документация **redoc**: http://127.0.0.1:8000/redoc/
