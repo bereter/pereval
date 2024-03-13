@@ -16,10 +16,13 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from .settings import BASE_DIR
-from pereval_data.views import PerevalCreateViewset
+from pereval_data.views import PerevalCreateViewset, PerevalUpdateViewset, PerevalUserListViewset
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('submitData/', PerevalCreateViewset.as_view({'post': 'create'})),
+    path('submitData/<int:pk>/', PerevalUpdateViewset.as_view({'put': 'update', 'get': 'retrieve', 'delete':
+        'destroy'})),
+    path('submitData/user__email=<str:email>/', PerevalUserListViewset.as_view()),
 ]
