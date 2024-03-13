@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2f6e19c-c6a1-4b92-93f5-f55f2ab65c60" name="Changes" comment="submitData: Доделал отправку изображений">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/camping/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/camping/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/camping/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/camping/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/pereval_data/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/pereval_data/services.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/services.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/camping/pereval_data/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/camping/pereval_data/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="b2f6e19c-c6a1-4b92-93f5-f55f2ab65c60" name="Changes" comment="submitData: Добавил методы GET и PATCH. Написал README" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709395341029</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="submitData: Добавил методы GET и PATCH. Написал README">
+      <created>1710348065240</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710348065240</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +139,7 @@
     <MESSAGE value="submitData: Дописал urls и подправил views" />
     <MESSAGE value="submitData: Пишу реализацию сохранения картинок" />
     <MESSAGE value="submitData: Доделал отправку изображений" />
-    <option name="LAST_COMMIT_MESSAGE" value="submitData: Доделал отправку изображений" />
+    <MESSAGE value="submitData: Добавил методы GET и PATCH. Написал README" />
+    <option name="LAST_COMMIT_MESSAGE" value="submitData: Добавил методы GET и PATCH. Написал README" />
   </component>
 </project>
