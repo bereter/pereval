@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2f6e19c-c6a1-4b92-93f5-f55f2ab65c60" name="Changes" comment="submitData: Добавил методы GET и PATCH. Написал README" />
+    <list default="true" id="b2f6e19c-c6a1-4b92-93f5-f55f2ab65c60" name="Changes" comment="submitData: Добавил методы GET и PATCH. Написал README">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710348065240</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="submitData: Добавил методы GET и PATCH. Написал README">
+      <created>1710348135747</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710348135747</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
